@@ -1,5 +1,7 @@
 # 🏥 Hospital_Emergency_Room_Analysis 
 
+## Live Dashboard: _[Hospital Emergency Room Analysis](https://app.powerbi.com/view?r=eyJrIjoiYWUzNDI3NjgtOTgyOS00YzU2LTgzM2QtODYyMjZhOTVjZjBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+
 ## 📌 Project Overview
 This Power BI-based interactive dashboard provides valuable insights into the operations of a hospital’s Emergency Room (ER). It enables stakeholders to **monitor**, **analyze**, and **make data-driven decisions** to improve patient management and enhance service quality.
 
