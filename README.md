@@ -1,14 +1,15 @@
 # 🏥 Hospital_Emergency_Room_Analysis 
 
 ## 📌 Project Overview
-This Excel-based interactive dashboard provides valuable insights into the operations of a hospital’s Emergency Room (ER). It enables stakeholders to **monitor**, **analyze**, and **make data-driven decisions** to improve patient management and enhance service quality.
+This Power BI-based interactive dashboard provides valuable insights into the operations of a hospital’s Emergency Room (ER). It enables stakeholders to **monitor**, **analyze**, and **make data-driven decisions** to improve patient management and enhance service quality.
 
-![Dashboard Screenshot](Final_Dashboard_Hospital.png)
+## 🖼️ Dashboard Screenshot-1
+![Dashboard Screenshot](https://github.com/vanshbhatt05/Hospital_Emergency_Room_Analysis/blob/main/Hospital_dashboard_1.png)     
 
 
-## 🖼️ Dashboard Demo
+## 🖼️ Dashboard Screenshot-2
 
-![Demo](dashboard_demo.gif)
+![](https://github.com/vanshbhatt05/Hospital_Emergency_Room_Analysis/blob/main/Hospital_dashboard_2%20(2).png)
 
 
 ## 🎯 Purpose of the Project
